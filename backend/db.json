@@ -1,0 +1,67 @@
+{
+  "pensamentos": [
+    {
+      "conteudo": "Deu errado na primeira",
+      "autoria": "eu msm",
+      "modelo": "modelo1",
+      "id": 1,
+      "favorito": false
+    },
+    {
+      "conteudo": "Mussum Ipsum, cacilds vidis litro abertis. Interagi no mé, cursus quis, vehicula ac nisi. Negão é teu passadis, eu sou faxa pretis. Leite de capivaris, leite de mula manquis sem cabeça. Em pé sem cair, deitado sem dormir, sentado sem cochilar e fazendo pose. \n Paisis, filhis, espiritis santis. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Diuretics paradis num copo é motivis de denguis. Interagi no mé, cursus quis, vehicula ac nisi.\n Admodum accumsan disputationi eu sit. Vide electram sadipscing et per. Aenean aliquam molestie leo, vitae iaculis nisl. Quem num gosta di mim que vai caçá sua turmis! Viva Forevis aptent taciti sociosqu ad litora torquent.",
+      "autoria": "Mussum",
+      "modelo": "modelo2",
+      "id": 2,
+      "favorito": false
+    },
+    {
+      "conteudo": "É uai, consegui sáporra",
+      "autoria": "Eu mesmo, mané!",
+      "modelo": "modelo2",
+      "id": 3,
+      "favorito": false
+    },
+    {
+      "conteudo": "Eu vou conseguir fazer isso sozinho agora",
+      "autoria": "Raphael Fernandes",
+      "modelo": "modelo3",
+      "id": 4,
+      "favorito": false
+    },
+    {
+      "conteudo": "Testando se deu certo",
+      "autoria": "Eu",
+      "modelo": "modelo3",
+      "id": 5,
+      "favorito": false
+    },
+    {
+      "conteudo": "Serei muito fera na programação",
+      "autoria": "Raphael Fernandes",
+      "modelo": "modelo1",
+      "id": 6,
+      "favorito": false
+    },
+    {
+      "conteudo": "Ficarei rico nessa área no qual estou apenas começando minha caminhada.",
+      "autoria": "EU, Raphael",
+      "modelo": "modelo3",
+      "id": 7,
+      "favorito": false
+    },
+    {
+      "conteudo": "Me tornarei muito rico com meus projetos particulares e meus investimentos",
+      "autoria": "Raphael Fernandes",
+      "modelo": "modelo2",
+      "id": 8,
+      "favorito": true
+    },
+    {
+      "conteudo": "Hoje é o primeiro dia de sucesso so resto da minha vida!",
+      "autoria": "Raphael Fernandes",
+      "modelo": "modelo3",
+      "favorito": true,
+      "id": 9
+    }
+  ]
+}
